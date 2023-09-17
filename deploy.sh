@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:HandrianW/HandrianW.github.io.git main
 
 # if you are deploying to https://HandrianW.github.io/testingprivate
-git push -f git@github.com:HandrianW/testingprivate.git main:gh-pages
+git push -f git@github.com:HandrianW/testinger.git main:gh-pages
 
 cd -
